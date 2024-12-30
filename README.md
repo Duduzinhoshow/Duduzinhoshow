@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duduzinhoshow, I'm 23yo, I'm from Minas Gerais, Brazil 
+- 👋 Hi, I’m @Duduzinhoshow, I'm 24yo, I'm from Minas Gerais, Brazil 
 - 👀 I’m interested in Web Development, UX/UI Design
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
