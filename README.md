@@ -6,6 +6,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm afraid of birds in general haha
 
+### 📫 Para entrar em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL/](https://www.linkedin.com/in/eduardo-coelho-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardohrcoelhomkt@gmail.com)
 <!---
 Duduzinhoshow/Duduzinhoshow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
